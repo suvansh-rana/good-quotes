@@ -12,17 +12,25 @@ An action for google assistant that brings you the quotes of famous and successf
 
 ## Preview
 
-
 <p align="center">
     <img src="images/screenshot_1.png" height="400px" border="1px" />
 </p>
+
+
+---
 
 
 <p align="center">
     <img src="images/screenshot_2.png" height="400px" border="1px" />
 </p>
 
+
+---
+
+
 <p align="center">
     <img src="images/screenshot_3.png" height="400px" border="1px" />
 </p>
 
+
+----
