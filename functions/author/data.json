@@ -1,0 +1,194 @@
+{
+    "Hellen Keller": {
+        "en_subtitle": "author, political activist, and lecturer",
+        "hi_subtitle": "लेखक, राजनीतिक कार्यकर्ता और व्याख्याता",
+        "link": "https://en.wikipedia.org/wiki/Helen_Keller",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Helen_Keller_circa_1920_-_restored.jpg"
+    },
+    "Mark Twain": {
+        "en_subtitle": "writer, humorist, entrepreneur, publisher, and lecturer",
+        "hi_subtitle": "लेखक, हास्यकार, उद्यमी, प्रकाशक और व्याख्याता",
+        "link": "https://en.wikipedia.org/wiki/Mark_Twain",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Twain1909.jpg"
+    },
+    "Dr. Suess": {
+        "en_subtitle": "children's author, political cartoonist, illustrator, poet, animator, screenwriter, and filmmaker",
+        "hi_subtitle": "बच्चों के लेखक, राजनीतिक कार्टूनिस्ट, इलस्ट्रेटर, कवि, एनिमेटर, पटकथा लेखक और फिल्म निर्माता",
+        "link": "https://en.wikipedia.org/wiki/Dr._Seuss",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ted_Geisel_NYWTS_2_crop.jpg"
+    },
+    "Mother Teresa": {
+        "en_subtitle": "Albanian-Indian Roman Catholic nun and missionary",
+        "hi_subtitle": "अल्बानियाई-भारतीय रोमन कैथोलिक नन और मिशनरी",
+        "link": "https://en.wikipedia.org/wiki/Mother_Teresa",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mother_Teresa_1.jpg"
+    },
+    "Joshua J. Marine": {
+        "en_subtitle": "author",
+        "hi_subtitle": "लेखक",
+        "link": "https://www.quora.com/Who-is-Joshua-J-Marine-and-what-are-his-accomplishments",
+        "image": "https://qph.fs.quoracdn.net/main-qimg-b9426eb8963387a2855b2d76f6cc925e"
+    },
+    "Francis Chan": {
+        "en_subtitle": "preacher/teacher",
+        "hi_subtitle": "उपदेशक / शिक्षक",
+        "link": "https://en.wikipedia.org/wiki/Francis_Chan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/FrancisChan.jpg"
+    },
+    "J. K. Rowling": {
+        "en_subtitle": "novelist, screenwriter, producer, and philanthropist",
+        "hi_subtitle": "उपन्यासकार, पटकथा लेखक, निर्माता, और परोपकारी",
+        "link": "https://en.wikipedia.org/wiki/J._K._Rowling",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/J._K._Rowling_2010.jpg"
+    },
+    "Pablo Picasso": {
+        "en_subtitle": "painter, sculptor, printmaker, ceramicist, stage designer, poet and playwright ",
+        "hi_subtitle": "चित्रकार, मूर्तिकार, प्रिंटमेकर, सिरेमिक, मंच डिजाइनर, कवि और नाटककार",
+        "link": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Portrait_de_Picasso%2C_1908.jpg"
+    },
+    "Leo Tolstoy": {
+        "en_subtitle": "writer",
+        "hi_subtitle": "लेखक",
+        "link": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tolstoy_Leo_port.jpg"
+    },
+    "Thomas Alva Edison": {
+        "en_subtitle": "inventor and businessman",
+        "hi_subtitle": "आविष्कारक और व्यापारी",
+        "link": "https://en.wikipedia.org/wiki/Thomas_Edison",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg"
+    },
+    "Albert Einstein": {
+        "en_subtitle": "theoretical physicist",
+        "hi_subtitle": "सिद्धांतिक भौतिक विज्ञानी",
+        "link": "https://en.wikipedia.org/wiki/Albert_Einstein",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
+    },
+    "Henry Ward Beecher": {
+        "en_subtitle": "Congregationalist clergyman, social reformer, and speaker",
+        "hi_subtitle": "संघचालक पादरी, समाज सुधारक, और वक्ता",
+        "link": "https://en.wikipedia.org/wiki/Henry_Ward_Beecher",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Henry_Ward_Beecher_-_Brady-Handy.jpg"
+    },
+    "Jim Morrison": {
+        "en_subtitle": "singer, songwriter and poet",
+        "hi_subtitle": "गायक, गीतकार और कवि",
+        "link": "https://en.wikipedia.org/wiki/Jim_Morrison",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Jim_Morrison_1969.JPG"
+    },
+    "Babe Ruth": {
+        "en_subtitle": "professional baseball player",
+        "hi_subtitle": "पेशेवर बेसबॉल खिलाड़ी",
+        "link": "https://en.wikipedia.org/wiki/Babe_Ruth",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Babe_Ruth2.jpg"
+    },
+    "Ralph Waldo Emerson": {
+        "en_subtitle": "essayist, lecturer, philosopher, and poet",
+        "hi_subtitle": "निबंधकार, व्याख्याता, दार्शनिक और कवि",
+        "link": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg"
+    },
+    "Nicola Tesla": {
+        "en_subtitle": "inventor, electrical engineer, mechanical engineer, and futurist",
+        "hi_subtitle": "आविष्कारक, इलेक्ट्रिकल इंजीनियर, मैकेनिकल इंजीनियर, और भविष्यवादी",
+        "link": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG"
+    },
+    "Ray Bradbury": {
+        "en_subtitle": "author and screenwriter",
+        "hi_subtitle": "लेखक और पटकथा लेखक",
+        "link": "https://en.wikipedia.org/wiki/Ray_Bradbury",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ray_Bradbury_%281975%29_-cropped-.jpg"
+    },
+    "George S. Patton": {
+        "en_subtitle": "Army General",
+        "hi_subtitle": "आर्मी जनरल",
+        "link": "https://en.wikipedia.org/wiki/George_S._Patton",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pattonphoto.jpg"
+    },
+    "Maya Angelou": {
+        "en_subtitle": "poet, singer, memoirist, and civil rights activist",
+        "hi_subtitle": "कवि, गायक, संस्मरण और नागरिक अधिकार कार्यकर्ता",
+        "link": "https://en.wikipedia.org/wiki/Maya_Angelou",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Maya_Angelou_speech_for_Barack_Obama_campaign_2008.jpg"
+    },
+    "Jonathan Swift": {
+        "en_subtitle": "satirist, essayist, political pamphleteer, poet and cleric",
+        "hi_subtitle": "व्यंग्यकार, निबंधकार, राजनीतिक पैम्फिल्टर, कवि और मौलवी",
+        "link": "https://en.wikipedia.org/wiki/Jonathan_Swift",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jonathan_Swift_by_Charles_Jervas_detail.jpg"
+    },
+    "Winston Churchill": {
+        "en_subtitle": "politician, army officer, and writer",
+        "hi_subtitle": "राजनीतिज्ञ, सेना अधिकारी और लेखक",
+        "link": "https://en.wikipedia.org/wiki/Winston_Churchill",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/TNA_INF3-3_Winston_Churchill_in_RAF_uniform_1939-1946.jpg"
+    },
+    "Mark Zuckerberg": {
+        "en_subtitle": "technology entrepreneur and philanthropist",
+        "hi_subtitle": "प्रौद्योगिकी उद्यमी और परोपकारी",
+        "link": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mark_Zuckerberg_F8_2018_Keynote_%28cropped_2%29.jpg"
+    },
+    "T. S. Eliot": {
+        "en_subtitle": "essayist, publisher, playwright, and literary and social critic",
+        "hi_subtitle": "निबंधकार, प्रकाशक, नाटककार और साहित्यिक और सामाजिक आलोचक",
+        "link": "https://en.wikipedia.org/wiki/T._S._Eliot",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_%281934%29.jpg"
+    },
+    "Robert Downey Jr.": {
+        "en_subtitle": "actor and singer",
+        "hi_subtitle": "अभिनेता और गायक",
+        "link": "https://en.wikipedia.org/wiki/Robert_Downey_Jr.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg"
+    },
+    "Bill Gates": {
+        "en_subtitle": "business magnate, investor, author, philanthropist, and humanitarian",
+        "hi_subtitle": "व्यापार में वृद्धि, निवेशक, लेखक, परोपकारी, और मानवतावादी",
+        "link": "https://en.wikipedia.org/wiki/Bill_Gates",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bill_Gates_July_2014.jpg"
+    },
+    "Steve Jobs": {
+        "en_subtitle": "business magnate and investor",
+        "hi_subtitle": "व्यापार में वृद्धि और निवेशक",
+        "link": "https://en.wikipedia.org/wiki/Steve_Jobs",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Steve_Jobs_Headshot_2010-CROP2.jpg"
+    },
+    "Oscar Wilde": {
+        "en_subtitle": "poet and playwright",
+        "hi_subtitle": "कवि और नाटककार",
+        "link": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Oscar_Wilde_1889-05-23_WDDowney.jpg"
+    },
+    "Warren Buffett": {
+        "en_subtitle": "business magnate, investor, speaker and philanthropist",
+        "hi_subtitle": "व्यापार बढ़ाना, निवेशक, वक्ता और परोपकारी",
+        "link": "https://en.wikipedia.org/wiki/Warren_Buffett",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Warren_Buffett_KU_Visit.jpg"
+    },
+    "Eleanor Roosevelt": {
+        "en_subtitle": "political figure, diplomat and activist",
+        "hi_subtitle": "राजनीतिक व्यक्ति, राजनयिक और कार्यकर्ता",
+        "link": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eleanor_Roosevelt_portrait_1933.jpg"
+    },
+    "Bruce Lee": {
+        "en_subtitle": "actor, director, martial artist, martial arts instructor, and philosopher",
+        "hi_subtitle": "अभिनेता, निर्देशक, मार्शल कलाकार, मार्शल आर्ट प्रशिक्षक और दार्शनिक",
+        "link": "https://en.wikipedia.org/wiki/Bruce_Lee",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg"
+    },
+    "Bob Dylan": {
+        "en_subtitle": "singer-songwriter, author, poet, and visual artist",
+        "hi_subtitle": "गायक-गीतकार, लेखक, कवि और दृश्य कलाकार",
+        "link": "https://en.wikipedia.org/wiki/Bob_Dylan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg"
+    },
+    "Henry Ford": {
+        "en_subtitle": "industrialist and a business magnate, the founder of the Ford Motor Company",
+        "hi_subtitle": "उद्योगपति और एक व्यावसायिक मैग्नेट, फोर्ड मोटर कंपनी के संस्थापक",
+        "link": "https://en.wikipedia.org/wiki/Henry_Ford",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg"
+    }
+}

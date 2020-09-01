@@ -1,0 +1,26 @@
+{
+	"QUOTES_URL": "./quotes/en_quotes.json",
+
+	"GREET": "Hey there !",
+	
+	"UPDATE_GOODBYE": "Thanks for coming. See you tomorrow",
+
+	"MORE": "Say \"More quotes\" for more",
+	
+	"DISPLAY_MORE_TEXT": "You can ask for more",
+	
+	"CONFIRM": "Gotcha, I'll send you an update everyday with daily quotes.",
+	
+	"FALLBACK": "Sorry, what was that ?",
+	
+	"CANCEL_UPDATE": "I won't send you daily quotes.",
+	
+	"THANKYOU_USER": "Glad you liked it",
+	
+	"ABOUT": "About",
+
+	"SUGGESTION_LIKED": "Nice !",
+	"SUGGESTION_BYE": "Bye Bye !",
+	"SUGGESTION_DAILY": "Send daily quotes",
+	"SUGGESTION_MORE": "More quotes"
+}
